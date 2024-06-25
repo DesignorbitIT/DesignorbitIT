@@ -1,0 +1,14 @@
+
+.navbar-1.scrolled {
+    background-color: rgb(129,46,250);
+    transition: background-color 200ms linear; /* Add a smooth transition effect */
+}
+
+.border-b-2-hover {
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.3s ease; /* Add a smooth transition effect */
+}
+
+.border-b-2-hover:hover {
+    border-bottom: 2px solid #fff; /* Change to white when hovered */
+}

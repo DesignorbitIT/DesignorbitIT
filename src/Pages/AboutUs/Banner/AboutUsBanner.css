@@ -1,0 +1,5 @@
+.aboutUs-Banner-Background{
+    border-radius: 29px;
+background: rgba(255, 255, 255, 0.74);
+backdrop-filter: blur(5.5px);
+}

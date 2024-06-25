@@ -1,0 +1,6 @@
+.circle-style{
+  
+    fill: #014989;
+    box-shadow: 1px 1px 2px 0px rgba(2, 117, 219, 0.30) inset, -1px -1px 2px 0px rgba(0, 29, 55, 0.50) inset;
+    filter: drop-shadow(3px 3px 8px rgba(0, 29, 55, 0.90)) drop-shadow(-3px -3px 6px rgba(2, 117, 219, 0.90)) drop-shadow(3px -3px 6px rgba(0, 29, 55, 0.20)) drop-shadow(-3px 3px 6px rgba(0, 29, 55, 0.20));
+}

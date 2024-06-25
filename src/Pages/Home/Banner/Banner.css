@@ -1,0 +1,18 @@
+.banner-background{
+    background: linear-gradient(90deg, #FCFDFF 0.31%, #D6E2FF 41.05%, #FFF 99.67%);
+}
+.banner-h1-leading{
+    line-height: 1.5;
+}
+.animated-image {
+    animation: moveUpDown 1s infinite alternate;
+}
+
+@keyframes moveUpDown {
+    0% {
+        transform: translateY(0);
+    }
+    100% {
+        transform: translateY(-30px); /* Adjust the distance as needed */
+    }
+}
